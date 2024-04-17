@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-15T11:56:14 MDT" name="Default suite" finished-at="2024-04-15T11:56:27 MDT" duration-ms="12784">
+    <groups>
+    </groups>
+    <test started-at="2024-04-15T11:56:14 MDT" name="Default test" finished-at="2024-04-15T11:56:27 MDT" duration-ms="12784">
+      <class name="ecommerce.LoginTestEcommerce">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:ecommerce.LoginTestEcommerce@4c1909a3]" started-at="2024-04-15T11:56:14 MDT" name="SetUp" finished-at="2024-04-15T11:56:20 MDT" duration-ms="5721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="LoginFailureTest()[pri:0, instance:ecommerce.LoginTestEcommerce@4c1909a3]" started-at="2024-04-15T11:56:20 MDT" name="LoginFailureTest" finished-at="2024-04-15T11:56:20 MDT" duration-ms="699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFailureTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:ecommerce.LoginTestEcommerce@4c1909a3]" started-at="2024-04-15T11:56:20 MDT" name="TearDown" finished-at="2024-04-15T11:56:21 MDT" duration-ms="919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:ecommerce.LoginTestEcommerce@4c1909a3]" started-at="2024-04-15T11:56:21 MDT" name="SetUp" finished-at="2024-04-15T11:56:25 MDT" duration-ms="3978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="LoginSuccessTest()[pri:0, instance:ecommerce.LoginTestEcommerce@4c1909a3]" started-at="2024-04-15T11:56:25 MDT" name="LoginSuccessTest" finished-at="2024-04-15T11:56:26 MDT" duration-ms="712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginSuccessTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:ecommerce.LoginTestEcommerce@4c1909a3]" started-at="2024-04-15T11:56:26 MDT" name="TearDown" finished-at="2024-04-15T11:56:27 MDT" duration-ms="684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- ecommerce.LoginTestEcommerce -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
