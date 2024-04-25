@@ -8,7 +8,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
 public class BaseClass {
-	WebDriver chromeDriver;
+	public static WebDriver chromeDriver;
 
 	@BeforeMethod
 	public void SetUp() {
